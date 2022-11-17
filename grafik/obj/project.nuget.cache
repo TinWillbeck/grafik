@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVt89fCt+2HnDw68I+eJpRnXuQPO+6+d6Gg5Qrt4Y98UaO5TpT7QPAu99+Gf/bGsRrff2vXATPrethVX/q6cRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tin.willbeck\\Documents\\visual studio code\\Programmering C#\\grafik\\grafik\\grafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tin.willbeck\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\tin.willbeck\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
